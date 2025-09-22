@@ -1,3 +1,6 @@
 @import "tailwindcss";
 @custom-variant dark (&:where(.dark, .dark *));
 
+.hat {
+    background-color: rgb(72, 252, 216);
+}
