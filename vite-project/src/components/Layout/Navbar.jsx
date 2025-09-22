@@ -21,8 +21,8 @@ export default function Navbar() {
 
   return (
     <nav className="bg-white dark:bg-black text-black dark:text-teal-300 shadow-md sticky top-0 z-50 transition-colors duration-300">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16 items-center">
+      <div className="max-w-7xl mx-auto px- sm:px-6 lg:px-8">
+        <div className="flex justify-between h-18 items-center">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center font-bold text-xl">
             <span className="text-black dark:text-teal-500">MyLogo</span>
